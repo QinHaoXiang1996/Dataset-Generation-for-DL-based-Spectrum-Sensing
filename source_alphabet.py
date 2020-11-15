@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# the source code of source_alphabet.py is given by "T. O¡¯Shea and N. West, ¡°Radio machine learning dataset generation with gnu radio,¡± in Proc. GNU Radio Conference (GRCon16), vol. 1, 2016."
 from gnuradio import gr, blocks
 #import mediatools
 import numpy as np

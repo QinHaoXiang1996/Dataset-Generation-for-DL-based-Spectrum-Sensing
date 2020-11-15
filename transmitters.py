@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# the source code of transmitters.py is given by "T. O¡¯Shea and N. West, ¡°Radio machine learning dataset generation with gnu radio,¡± in Proc. GNU Radio Conference (GRCon16), vol. 1, 2016."
 import time, math
 from scipy.signal import get_window
 from gnuradio import gr, blocks, digital, analog, filter

@@ -1,3 +1,4 @@
+# the source code of timeseries_slicer.py is given by "T. O¡¯Shea and N. West, ¡°Radio machine learning dataset generation with gnu radio,¡± in Proc. GNU Radio Conference (GRCon16), vol. 1, 2016."
 import numpy as np
 import analyze_stats
 import matplotlib.pyplot as plt
